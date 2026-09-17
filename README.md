@@ -1,3 +1,5 @@
+Tools used: Claude Opus 5 (chat) for deployment guidance.
+
 # Lab 4 Starter: Deploy lab04-service
 
 `lab04-service` is a small HTTP service with two routes. `GET /api/health` returns
